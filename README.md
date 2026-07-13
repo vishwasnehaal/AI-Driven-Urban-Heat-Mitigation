@@ -3,6 +3,7 @@ drive link for actual data: https://drive.google.com/drive/folders/1oe9zbGAvXMhn
 processed has .csv for ERA5; raw has subfolders for lst, lulc, dem, era5
 
 city = mumbai, parts of thane, vasai-virar
+
 bounding coordinates, cloud id
 
 time range duration = 2023, 2024, 2025, 2026
